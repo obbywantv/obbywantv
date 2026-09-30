@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://discord.gg/obby">
+    <img src="https://raw.githubusercontent.com/obbywantv/obbywantv/refs/heads/main/majoradama.gif" alt="Banner" width="50%">
+  </a>
+</p>
 
-<!--
-**obbywantv/obbywantv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, I'm <a href="https://dsc.gg/hlth">poK</a>.</h1>
+<h3 align="center">Welcome on my GitHub profile.</h3>
 
-Here are some ideas to get you started:
+<p align="center">I'm a student in IT support and network administration. I also do game server administration and content creation. I do offer some scripts and tools for free on my GitHub.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://discord.gg/obby">Discord</a></strong>
+</p>
+
+<p align="center">
+	<a href="https://octo-ring.com/p/obbywantv/prev">&larr;</a>
+	<a class="cactus-link" href="https://octo-ring.com">Octo Ring</a>
+	<a href="https://octo-ring.com/p/obbywantv/random">🎲</a>
+	<a href="https://octo-ring.com/p/obbywantv/next">&rarr;</a>
+</p>
+
+<h1 align="center"> </h1>
+<p align="center">
+  <a href="https://discord.gg/obby">
+    <img src="https://raw.githubusercontent.com/obbywantv/obbywantv/refs/heads/main/nukingplanets.gif" alt="Banner" width="50%">
+  </a>
+</p>
